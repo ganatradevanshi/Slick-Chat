@@ -7,10 +7,10 @@ accessible front-end clients were at the centre of the project.
 (The app was built in collaboration with three other members.)
 
 ## Basic Functionalities
-• User Functions
-• Message Functions
-• Group Functions
-• Government Functions
+- User Functions
+- Message Functions
+- Group Functions
+- Government Functions
 
 ## Usefulness to Client
 • Provides the client to have secure messaging within the team or the
