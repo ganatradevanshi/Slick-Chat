@@ -1,18 +1,15 @@
-# Slick Chat Team - 2
-## Team members - 
+# Slick Chat 
+A chat application developed/built to enable secure messaging system which focused
+on features similar to the popular messaging application - Slack . Features like group
+messaging, secure messaging, exchanging files, thread based conversations, and easily
+accessible front-end clients were at the centre of the project.
 
-  - Purvil Bambharolia - purvil12c
-  - Devanshi Ganatra - ganatrad
-  - Jainam Sheth - j4inam
-  - Dipen Patel - dipenpatel0810
+(The app was built in collaboration with three other members.)
 
 ## Remote server deployment - 
-Server accessible at: http://128.31.25.60:8080/prattle/
 Frondend accessible at: http://ngx-slick-chat.herokuapp.com/
 
 ## Youtube Video - 
 System Demo: https://www.youtube.com/watch?v=hmUEypnCPQY
-Presentation: https://www.youtube.com/watch?v=fFt0xBdcv0M
 
 
-### Please navigate to the wiki section of this repo for technical details - https://github.ccs.neu.edu/cs5500-fse/team-2-SP20/wiki/A.-Introduction
